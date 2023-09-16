@@ -1,0 +1,8 @@
+tạo 1 project trên github
+-tạo repo
+-clone project 
+- viết code 
+-git status 
+-git add. 
+-git commit -m "your_message" (tạo nội dung commit) 
+-git push origin main
